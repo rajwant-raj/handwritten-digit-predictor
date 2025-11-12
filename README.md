@@ -113,7 +113,7 @@ pip install -r requirements.txt
 ## 🔧 Setup
 
 ```
- git clone https://github.com/your-username/digit-recognition-dl.git
+git clone https://github.com/your-username/digit-recognition-dl.git
 cd digit-recognition-dl
 pip install -r requirements.txt
 
