@@ -1,4 +1,4 @@
-#🧠 Handwritten Digit Recognition using CNN (Enhanced Canvas Version)
+## 🧠 Handwritten Digit Recognition using CNN (Enhanced Canvas Version)
 
 An upgraded version of the Handwritten Digit Recognition project (handwritten digit predictor) that uses a Convolutional Neural Network (CNN) trained on the MNIST dataset to identify handwritten digits (0–9).
 This new version introduces an interactive drawing canvas, allowing users to draw digits directly instead of uploading images.
