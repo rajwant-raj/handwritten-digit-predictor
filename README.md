@@ -58,7 +58,7 @@ It reuses the same trained model (my_model.keras) but introduces a new Streamlit
 
 ```
 
-digit-recognition-dl/
+handwritten-digit-recognition/
 ├── streamlit_app.py                 # Streamlit web app with drawing canvas
 ├── my_model.keras                        # Trained CNN model (same as previous)
 ├── handwritten-digit-recognition.ipynb  # Colab notebook (training + evaluation)
@@ -107,6 +107,80 @@ pip install -r requirements.txt
 ---
 
 
+
+
+# 🚀 How to Run
+## 🔧 Setup
+
+```
+ git clone https://github.com/your-username/digit-recognition-dl.git
+cd digit-recognition-dl
+pip install -r requirements.txt
+
+```
+
+## ▶️ Run the Streamlit App
+
+```
+
+streamlit run streamlit_app_canvas.py
+
+```
+
+Then open your browser at http://localhost:8501
+and start drawing digits on the canvas!
+
+
+
+---
+
+
+## 📊 Results
+
++ ✅ Test Accuracy: ~98.6%
+  
++ 📉 Visual Outputs:
+
++ Prediction confidence chart
+
++ Canvas input preview
+
++ Probability distribution of all 10 digits
+
+
+
+---
+
+
+## 🔗 Previous Version
+
+If you prefer the image upload version, check out the original project here:  [👉 Handwritten Digit Recognition (Image Upload)](https://github.com/rajwant-raj/handwritten-digit-recognition.git)
+
+
+
+---
+
+
+# 👤 Author
+
+Developed by: Rajwant Raj
+
+GitHub: github.com/rajwant-raj
+
+LinkedIn: linkedin.com/in/rajwant-raj-350519369
+
+
+---
+
+
+## ❤️ Made For
+
+A deep learning internship project (at Scalezix) demonstrating CNN-based digit recognition with a modern Streamlit UI — now upgraded for real-time digit drawing.
+
+
+
+
+---
 
 
 
