@@ -1,4 +1,4 @@
-## 🧠 Handwritten Digit Recognition using CNN (Enhanced Canvas Version)
+# 🧠 Handwritten Digit Recognition using CNN (Enhanced Canvas Version)
 
 An upgraded version of the Handwritten Digit Recognition project (handwritten digit predictor) that uses a Convolutional Neural Network (CNN) trained on the MNIST dataset to identify handwritten digits (0–9).
 This new version introduces an interactive drawing canvas, allowing users to draw digits directly instead of uploading images.
@@ -7,7 +7,7 @@ Built with TensorFlow, Streamlit, and Streamlit-Draw-Canvas for a smooth real-ti
 
 
 
-✨ What’s New in This Version
+## ✨ What’s New in This Version
 
 🖊️ Draw Instead of Uploading:
 Users can now draw digits directly on a canvas using their mouse or touch input.
@@ -25,7 +25,7 @@ It reuses the same trained model (my_model.keras) but introduces a new Streamlit
 
 
 
-🚀 Features
+## 🚀 Features
 
 + 🧠 Predicts handwritten digits (0–9) in real-time using CNN
 
@@ -40,7 +40,7 @@ It reuses the same trained model (my_model.keras) but introduces a new Streamlit
 ---
 
 
-📦 Project Overview
+## 📦 Project Overview
 
 + 🔍 Dataset: MNIST (Keras version)
 
@@ -54,7 +54,7 @@ It reuses the same trained model (my_model.keras) but introduces a new Streamlit
 ---
 
 
-📁 Folder Structure
+## 📁 Folder Structure
 
 digit-recognition-dl/
 ├── streamlit_app.py                 # Streamlit web app with drawing canvas
@@ -70,7 +70,7 @@ digit-recognition-dl/
 
 ---
 
-🧠 Model Architecture
+## 🧠 Model Architecture
 
 + 2x Conv2D Layers
 
@@ -84,7 +84,7 @@ digit-recognition-dl/
 ---
 
 
-📦 Dependencies
+## 📦 Dependencies
 
 + streamlit
 + tensorflow
