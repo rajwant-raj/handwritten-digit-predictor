@@ -56,6 +56,8 @@ It reuses the same trained model (my_model.keras) but introduces a new Streamlit
 
 ## 📁 Folder Structure
 
+```
+
 digit-recognition-dl/
 ├── streamlit_app.py                 # Streamlit web app with drawing canvas
 ├── my_model.keras                        # Trained CNN model (same as previous)
@@ -67,6 +69,7 @@ digit-recognition-dl/
 ├── requirements.txt                    # Python dependencies
 └── README.md
 
+```
 
 ---
 
